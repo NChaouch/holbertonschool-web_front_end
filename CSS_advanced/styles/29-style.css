@@ -176,11 +176,11 @@ a:active{
 .nav .nav-link::before{
     content: none;
     position: absolute;
-    top: 0rem;
-    left: 0rem;
+    top: 0;
+    left: 0;
     background-color: var(--color-white);
-    width: 0rem;
-    height: 0.2rem;
+    width: 0;
+    height: 20%;
 }
 
 .nav .nav-item:hover .nav-link::before{
