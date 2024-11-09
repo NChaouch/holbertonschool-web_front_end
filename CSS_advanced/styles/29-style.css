@@ -174,7 +174,7 @@ a:active{
 }
 
 .nav .nav-link::before{
-    content: none;
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
